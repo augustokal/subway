@@ -16,13 +16,11 @@ public class Subway {
      */
     public static void main(String[] args) {
         // testecfvcgxdgcxdAZD gfvrxzfdg
-<<<<<<< HEAD
+
         //testeeee
         //ola pra vc
         //mais uma alteracao
-        aaaaaaaa
-=======
->>>>>>> parent of 38d48cb... Testando
+
     }
     
 }
